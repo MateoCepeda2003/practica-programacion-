@@ -1,0 +1,28 @@
+[
+    {
+        "id": "45",
+        "nombres": "mateo",
+        "apellidos": "cpeda",
+        "direccion": "343434",
+        "acudiente": "no tiene",
+        "telefonos": {
+            "celular": "300",
+            "fijo": "444"
+        },
+        "estado": "En proceso de Ingreso",
+        "riesgo": "bajo"
+    },
+    {
+        "id": "13",
+        "nombres": "fe",
+        "apellidos": "rg",
+        "direccion": "cd",
+        "acudiente": "rt",
+        "telefonos": {
+            "celular": "rgr",
+            "fijo": "cdc"
+        },
+        "estado": "En proceso de Ingreso",
+        "riesgo": "cd"
+    }
+]
